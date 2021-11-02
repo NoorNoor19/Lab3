@@ -1,5 +1,5 @@
 while IFS=, read -r Height ; do
-if [[ $Height > "175" ]] && [[ $Height < "230" ]]
+if [[ $Height > "175" ]] 
 then echo $Height
 fi
 done < books.csv

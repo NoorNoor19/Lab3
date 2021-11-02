@@ -1,3 +1,3 @@
 make:
-	awk -f showData.awk data.csv
+	awk -f showData.awk books.csv
 	

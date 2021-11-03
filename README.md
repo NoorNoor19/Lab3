@@ -9,3 +9,15 @@ type "make" in the terminal and enter, and you will see a list of all the applic
 there are no extra tools needed
  
 The technologies used are awk, makefile and .sh
+the output should be as below
+awk -f showData.awk books.csv
+222
+215
+197
+200
+211
+211
+216
+216
+177
+178

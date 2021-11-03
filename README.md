@@ -8,3 +8,4 @@ or you can dowlonad the file manully
 type "make" in the terminal and enter, and you will see a list of all the applicable books
 there are no extra tools needed
  
+The technologies used are awk, makefile and .sh
